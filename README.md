@@ -1,13 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=malakut-dev)
 
-# Malakut
-Rigorous training in computer science, specializing in cybersecurity, and extensive knowledge of software engineering, OSINT, Cyber Threat Intelligence, and low-level systems.
-
-![](https://skillicons.dev/icons?i=c,cpp,wasm,bash,lua,qt,gtk,vim,linux,matlab)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=malakut-dev&hide_progress=false&theme=dark)
 
-# Malak organization
+# Zλphra organization
 We are an intelligence technology company operating at the forefront of cybersecurity, strategic analysis, data engineering, and artificial intelligence. 
 We seek not only technical progress, but also the restoration of order, integrity, and equity in human systems through reason combined with machines.
 
