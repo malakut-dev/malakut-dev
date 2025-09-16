@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=malakut-dev)
 
-# Malakut Al-Hakeem
+# Malakut
 Rigorous training in computer science, specializing in cybersecurity, and extensive knowledge of software engineering, OSINT, Cyber Threat Intelligence, and low-level systems.
 
 ![](https://skillicons.dev/icons?i=c,cpp,wasm,bash,lua,qt,gtk,vim,linux,matlab)
