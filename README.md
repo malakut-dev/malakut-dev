@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=malakut-dev&hide_progress=false&theme=dark)
 
-# Zλphra organization
+# Aethernom
 We are an intelligence technology company operating at the forefront of cybersecurity, strategic analysis, data engineering, and artificial intelligence. 
 We seek not only technical progress, but also the restoration of order, integrity, and equity in human systems through reason combined with machines.
 
